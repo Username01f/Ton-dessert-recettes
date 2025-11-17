@@ -1,0 +1,25 @@
+.Bon {
+    text-align: center;
+}
+
+.marque {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 48px;
+    color: #8B4513;
+    text-align: center;
+}
+
+.image {
+    width: 600px;
+    height: 275px;
+}
+
+.slogan {
+    font-family: 'Brush Script MT', cursive;
+    color: #8B4513;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 0.5px;
+    margin-bottom: 5px;
+    line-height: 1.5;
+}
